@@ -31,5 +31,6 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Also for the TF-IDF part, thanks for this kaggle post which gave me lots of guidance [here] (https://www.kaggle.com/bnsmith3/phrases-that-charactertize-each-neighborhood)
+Otherwise, feel free to use the code here as you would like! 
 
