@@ -1,4 +1,4 @@
-# Seatle_Airbnb
+# Seattle_Airbnb
 
 ### Table of Contents
 
@@ -10,7 +10,7 @@
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seatle Airbnb data from 2016 to better understand:
+For this project, I was interestested in using Seattle Airbnb data from 2016 to better understand:
 
 1. What are the busiest times of the year to visit Seattle? By how much do prices spike?
 2. Which neighbors in Seatle have most of the Airbnb listings?
